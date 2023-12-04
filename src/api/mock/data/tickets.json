@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Standard",
+        "description": "Access to the event with standard amenities.",
+        "isVIP": false,
+        "count": 50,
+        "price": 30
+    },
+    {
+        "id": 2,
+        "name": "VIP",
+        "description": "VIP treatment with exclusive perks.",
+        "isVIP": true,
+        "count": 20,
+        "price": 100
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "description": "Premium seating and additional privileges.",
+        "isVIP": false,
+        "count": 30,
+        "price": 50
+    },
+    {
+        "id": 4,
+        "name": "General Admission",
+        "description": "General admission ticket for the event.",
+        "isVIP": false,
+        "count": 40,
+        "price": 35
+    },
+    {
+        "id": 5,
+        "name": "VIP Experience",
+        "description": "Ultimate VIP experience with exclusive access.",
+        "isVIP": true,
+        "count": 15,
+        "price": 150
+    },
+    {
+        "id": 6,
+        "name": "Early Bird",
+        "description": "Limited tickets at a special early bird price.",
+        "isVIP": false,
+        "count": 25,
+        "price": 40
+    },
+    {
+        "id": 7,
+        "name": "Family Pack",
+        "description": "Admission for a family with special discounts.",
+        "isVIP": false,
+        "count": 5,
+        "price": 80
+    },
+    {
+        "id": 8,
+        "name": "Group Discount",
+        "description": "Special discount for group bookings.",
+        "isVIP": false,
+        "count": 10,
+        "price": 45
+    },
+    {
+        "id": 9,
+        "name": "Student Pass",
+        "description": "Discounted pass for students with a valid ID.",
+        "isVIP": false,
+        "count": 15,
+        "price": 25
+    },
+    {
+        "id": 10,
+        "name": "Executive Lounge",
+        "description": "Exclusive access to the executive lounge.",
+        "isVIP": true,
+        "count": 8,
+        "price": 120
+    },
+    {
+        "id": 11,
+        "name": "Late Night Pass",
+        "description": "Access to late-night events.",
+        "isVIP": false,
+        "count": 35,
+        "price": 55
+    },
+    {
+        "id": 12,
+        "name": "Weekend Warrior",
+        "description": "Ticket for the entire weekend.",
+        "isVIP": false,
+        "count": 18,
+        "price": 70
+    },
+    {
+        "id": 13,
+        "name": "Ultimate Fan Package",
+        "description": "Includes merchandise and exclusive fan experiences.",
+        "isVIP": true,
+        "count": 12,
+        "price": 200
+    },
+    {
+        "id": 14,
+        "name": "Day Pass",
+        "description": "Access for a single day of the event.",
+        "isVIP": false,
+        "count": 28,
+        "price": 45
+    },
+    {
+        "id": 15,
+        "name": "Luxury Suite",
+        "description": "Private luxury suite with catering.",
+        "isVIP": true,
+        "count": 5,
+        "price": 500
+    },
+    {
+        "id": 16,
+        "name": "Student Weekend Pass",
+        "description": "Discounted weekend pass for students.",
+        "isVIP": false,
+        "count": 10,
+        "price": 60
+    },
+    {
+        "id": 17,
+        "name": "Golden Circle",
+        "description": "Access to the golden circle close to the stage.",
+        "isVIP": true,
+        "count": 15,
+        "price": 180
+    },
+    {
+        "id": 18,
+        "name": "Early Access Pass",
+        "description": "Get early access to the venue.",
+        "isVIP": false,
+        "count": 22,
+        "price": 50
+    },
+    {
+        "id": 19,
+        "name": "Backstage Pass",
+        "description": "Go behind the scenes with a backstage pass.",
+        "isVIP": true,
+        "count": 7,
+        "price": 250
+    },
+    {
+        "id": 20,
+        "name": "Business Class",
+        "description": "Exclusive business class seating.",
+        "isVIP": true,
+        "count": 6,
+        "price": 300
+    }
+]
